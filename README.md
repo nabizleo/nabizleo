@@ -6,4 +6,4 @@
    </a>
 </div>
 
-<img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?" high="1920px" width"1080px">
+<img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?width=1202&height=676">
