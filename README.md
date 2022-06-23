@@ -6,9 +6,9 @@
    </a>
 </div>
 ## Social Media 
-![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge)&nbsp;
 
 ## 1937
 <p>
-<img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?width=1202&height=676"> (https://discord.gg/1937)
+[![1937] <img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?width=1202&height=676">](https://discord.gg/1937)
 </p>
