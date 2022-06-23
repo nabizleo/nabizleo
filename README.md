@@ -1,4 +1,4 @@
-## Hello I'm Nabiz <img src "https://cdn.discordapp.com/emojis/989386589534826527.webp?v1" high="20px" width="30px">
+## Hello I'm Nabiz <img src = "https://cdn.discordapp.com/emojis/989386589534826527.webp?size=96&quality=lossless" high="20px" width="30px">
 <p align="center">
    <a href="https://discord.com/users/962809217083908196" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://instagram.com/nabizleo" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
