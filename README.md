@@ -13,5 +13,5 @@ My name is Furkan Yiğit Rıdvan Keskin. I am 18 years old.
 
 ## The 1937
 <p>
-<a href="https://discord.com/1937" target="_blank"><img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?width=1202&height=676"></a>
+<a href="https://discord.gg/1937" target="_blank"><img src = "https://media.discordapp.net/attachments/962844960447660122/989390545669484575/1937_AFis.png?width=1202&height=676"></a>
 </p>
